@@ -1,0 +1,28 @@
+name: marcustornell
+favicon: null
+layout_spectrum: 0.8365283068269491
+typography_spectrum: 0.8028594844508916
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#212025'
+    - '#eff3f6'
+    - '#c3b6a9'
+    - '#9f8a74'
+    - '#716859'
+  brandStrength: 0.75
+  lightness: 0.5602306465152651
+  saturation: 0.1875
+  rhythmicContrast: 0.3309006136842072
+purpose: []
