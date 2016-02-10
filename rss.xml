@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[marcustornell]]></title>
-        <description><![CDATA[marcustornell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Marcus Törnell]]></title>
+        <description><![CDATA[Marcus Törnell]]></description>
+        <link>https://thegrid.ai/marcustornell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 18:04:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 18:11:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marcustornell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Marcus Törnell]]></title>
-            <description><![CDATA[<article><h1>Marcus Törnell</h1><p>Välkommen till min nya hemsida byggd i det nya verktyget The Grid!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/259f21a3-7109-4476-9aed-5a7dd85dd87b.JPG"></article>]]></description>
-            <link>undefinedmarcus-tornell/index.html</link>
+            <description><![CDATA[<article><h1>Marcus Törnell</h1><p>Välkommen till min nya hemsida byggd i det nya verktyget The Grid!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df004bb3e8bb1f3f58b2fe0f378a76d4f0c7f38f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/marcustornell/marcus-tornell/index.html</link>
             <guid isPermaLink="false">8e4a37b5-0480-42af-9d8c-b92437ee723e</guid>
-            <pubDate>Wed, 10 Feb 2016 18:04:00 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 18:11:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
