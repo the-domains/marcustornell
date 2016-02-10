@@ -6,20 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T18:25:29.300Z'
-dateModified: '2016-02-10T18:25:15.906Z'
+datePublished: '2016-02-10T18:27:26.835Z'
+dateModified: '2016-02-10T18:27:23.448Z'
 title: ''
 author: []
+sourcePath: _posts/2016-02-10-spela-stor-och-bli-en-i-mangden.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-spela-stor-och-bli-en-i-mangden.md
-published: true
 url: spela-stor-och-bli-en-i-mangden/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dce981fd-fdf6-4927-9d46-dbe5f8ad02d8.jpg)
+
 Spela stor och bli en i mängden...
