@@ -1,8 +1,7 @@
 name: marcustornell
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.69786
-title: Marcus Törnell
+layout_spectrum: 0.8365283068269491
+typography_spectrum: 0.8028594844508916
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#212025'
-    - '#eff3f6'
-    - '#c3b6a9'
-    - '#9f8a74'
-    - '#716859'
-  brandStrength: 0
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.829065419267863
   lightness: 0.5602306465152651
-  saturation: 0.1875
+  saturation: 0.24891451839357615
   rhythmicContrast: 0.3309006136842072
 purpose: []
