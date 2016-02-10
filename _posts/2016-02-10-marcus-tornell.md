@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T18:38:21.991Z'
-dateModified: '2016-02-10T18:38:16.093Z'
+datePublished: '2016-02-10T18:39:17.242Z'
+dateModified: '2016-02-10T18:39:14.921Z'
 title: Marcus Törnell
 author: []
 sourcePath: _posts/2016-02-10-marcus-tornell.md
