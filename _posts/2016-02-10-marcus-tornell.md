@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T18:39:17.242Z'
-dateModified: '2016-02-10T18:39:14.921Z'
+datePublished: '2016-02-11T08:08:55.227Z'
+dateModified: '2016-02-11T08:08:52.540Z'
 title: Marcus Törnell
 author: []
 sourcePath: _posts/2016-02-10-marcus-tornell.md
