@@ -1,13 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-11T08:08:55.227Z'
-dateModified: '2016-02-11T08:08:52.540Z'
+description: 'Visionär med många idéer och drömmar - realistiska och mindre realistiska. Predikar budskapet att alltid tänka positivt, och att allt är möjligt om man har rätt inställning. Stort intresse för mat och vin samt film. Älskar frågesport i alla former så länge han slipper sportfrågor. Äger ett dragspel och pratar knacklig spanska. Brinner för företagande och att hjälpa företag utveckla sin kommunikation. '
+datePublished: '2016-04-24T16:18:49.383Z'
+dateModified: '2016-04-24T16:18:45.911Z'
 title: Marcus Törnell
 author: []
 sourcePath: _posts/2016-02-10-marcus-tornell.md
@@ -18,8 +17,9 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: marcus-tornell/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Marcus Törnell
